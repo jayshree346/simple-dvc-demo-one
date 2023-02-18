@@ -24,5 +24,12 @@ git add .
 
 git commit -m "first commit"
 
+online updates for readme file
+
+git add . && git commit -m "update readme file"
+
+git remote add origin https://github.com/jayshree346/simple-dvc-demo-one.git git branch -M main git push origin main
+
+
 
 
