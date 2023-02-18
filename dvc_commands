@@ -1,0 +1,3 @@
+dvc repro # to reproduce
+dvc params diff
+dvc metrics show # show all the metrics
