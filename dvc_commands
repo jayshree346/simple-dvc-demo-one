@@ -1,3 +1,7 @@
 dvc repro # to reproduce
 dvc params diff
 dvc metrics show # show all the metrics
+
+tox
+
+tox -r # to reload the env with new requirement file
