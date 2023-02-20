@@ -14,3 +14,8 @@ def test_genric():
         if a not in range(10,20):
             raise NotInRange
     # assert a == b
+
+def test_something():
+    a = 2
+    b = 2
+    assert True
